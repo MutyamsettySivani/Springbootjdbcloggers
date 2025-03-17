@@ -14,6 +14,7 @@ public class SpringBootJdbcConfigApplication {
 		log.info("Starting Spring Boot JDBC Application...");
 		SpringApplication.run(SpringBootJdbcConfigApplication.class, args);
 		log.info("Application started...");
+		log.info("Thank you");
 	}
 
 }
